@@ -1,4 +1,4 @@
-package com.art.travel_art;
+package com.art;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
